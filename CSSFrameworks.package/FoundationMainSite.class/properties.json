@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-Foundation",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FoundationMainSite",
+	"pools" : [
+		 ],
+	"super" : "ExampleSite",
+	"type" : "normal" }

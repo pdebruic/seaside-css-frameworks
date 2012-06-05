@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-Initializr",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"listItem" ],
+	"name" : "InitializrHeader",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

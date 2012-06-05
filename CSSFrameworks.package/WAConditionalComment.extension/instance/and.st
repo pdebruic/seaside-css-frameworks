@@ -1,0 +1,3 @@
+*cssframeworks
+and
+	self addToCondition: ' &'

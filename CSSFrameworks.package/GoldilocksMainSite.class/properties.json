@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-Goldilocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pad 1/5/2012 10:18",
+	"instvars" : [
+		 ],
+	"name" : "GoldilocksMainSite",
+	"pools" : [
+		 ],
+	"super" : "GoldilocksBlankSite",
+	"type" : "normal" }

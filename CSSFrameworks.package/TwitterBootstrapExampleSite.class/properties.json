@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-TwitterBootstrap",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TwitterBootstrapExampleSite",
+	"pools" : [
+		 ],
+	"super" : "ExampleSite",
+	"type" : "normal" }

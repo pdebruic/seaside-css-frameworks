@@ -1,0 +1,3 @@
+*cssframeworks
+useIEConditionalHtmlElement
+	ieConditional := true

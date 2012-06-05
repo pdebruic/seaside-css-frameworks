@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-TwitterBootstrap-Two",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TBTwoExampleSite",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-Initializr",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "InitializrFooter",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-Gridless",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pad 12/31/2011 07:28",
+	"instvars" : [
+		 ],
+	"name" : "GridlessDemoSite",
+	"pools" : [
+		 ],
+	"super" : "ExampleSite",
+	"type" : "normal" }

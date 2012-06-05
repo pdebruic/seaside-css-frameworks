@@ -1,0 +1,11 @@
+SystemOrganization addCategory: #'CSSFrameworks-Core'!
+SystemOrganization addCategory: #'CSSFrameworks-Foundation'!
+SystemOrganization addCategory: #'CSSFrameworks-Frameless'!
+SystemOrganization addCategory: #'CSSFrameworks-GoldenGridSystem'!
+SystemOrganization addCategory: #'CSSFrameworks-Goldilocks'!
+SystemOrganization addCategory: #'CSSFrameworks-Gridless'!
+SystemOrganization addCategory: #'CSSFrameworks-Initializr'!
+SystemOrganization addCategory: #'CSSFrameworks-Skeleton'!
+SystemOrganization addCategory: #'CSSFrameworks-TwitterBootstrap-Two'!
+SystemOrganization addCategory: #'CSSFrameworks-TwitterBootstrap-Two-Docs'!
+SystemOrganization addCategory: #'CSSFrameworks-TwitterBootstrap'!

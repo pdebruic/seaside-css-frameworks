@@ -1,0 +1,17 @@
+{
+	"category" : "CSSFrameworks-Initializr",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pad 1/3/2012 16:28",
+	"instvars" : [
+		"aside",
+		"header",
+		"footer",
+		"article" ],
+	"name" : "InitializrDemoSite",
+	"pools" : [
+		 ],
+	"super" : "ExampleSite",
+	"type" : "normal" }

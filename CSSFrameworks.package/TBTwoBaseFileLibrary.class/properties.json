@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-TwitterBootstrap-Two",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TBTwoBaseFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "ExampleSiteFileLibrary",
+	"type" : "normal" }

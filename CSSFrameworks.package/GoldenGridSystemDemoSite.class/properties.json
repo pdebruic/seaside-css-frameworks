@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-GoldenGridSystem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pad 12/31/2011 07:36",
+	"instvars" : [
+		 ],
+	"name" : "GoldenGridSystemDemoSite",
+	"pools" : [
+		 ],
+	"super" : "ExampleSite",
+	"type" : "normal" }

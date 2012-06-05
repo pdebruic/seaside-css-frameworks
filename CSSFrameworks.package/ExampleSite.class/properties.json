@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ExampleSite",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

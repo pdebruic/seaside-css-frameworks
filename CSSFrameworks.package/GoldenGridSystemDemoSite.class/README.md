@@ -1,0 +1,1 @@
+A copy of the example site included with http://goldengridsystem.com/ by Joni Korpi which is licensed under CC0 (http://creativecommons.org/publicdomain/zero/1.0/)  

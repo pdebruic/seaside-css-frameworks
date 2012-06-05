@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-TwitterBootstrap",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TwitterBootstrapAlerts",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

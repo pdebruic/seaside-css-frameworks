@@ -1,0 +1,14 @@
+{
+	"category" : "CSSFrameworks-Skeleton",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pad 12/31/2011 07:25",
+	"instvars" : [
+		 ],
+	"name" : "SkeletonMainSite",
+	"pools" : [
+		 ],
+	"super" : "ExampleSite",
+	"type" : "normal" }
